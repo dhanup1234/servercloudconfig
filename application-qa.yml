@@ -1,0 +1,9 @@
+datosservidor:
+  minimum: 11112
+  maximum: 22223
+limites:
+  minimum: -11124
+  maximum: 22235
+valores:
+  valor_fijo: VALORFIJO_QA
+  valor_funcion: "VALORDEFUNCION_QA"
